@@ -62,3 +62,6 @@ Functions:
 - Word suggestions
 - Interactive graphical interface
 
+## Output
+<img width="751" height="425" alt="Demo" src="https://github.com/user-attachments/assets/698fd326-a244-4c1a-9417-b60575d3d972" />
+
